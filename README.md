@@ -1,4 +1,0 @@
-mytestrepo
-==========
-
-very first repo
