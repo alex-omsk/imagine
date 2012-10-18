@@ -1,2 +1,5 @@
 /.zfproject.xml
 /library
+/.settings
+/.project
+/.buildpath
